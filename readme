@@ -1,0 +1,11 @@
+The project is created using MERN stack and is a webscrapper application that allow us to know </br>
+about the total no of words in a website its image and video links and also other several features like </br>
+add to favourites and delete 
+
+Instructions to run
+
+GO inside frontend folder and type npm i in terminal
+GO inside backend folder and type npm i in terminal
+
+run frontend by using command npm run dev
+run backend by using command npm start
